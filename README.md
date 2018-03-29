@@ -23,7 +23,7 @@ To load pre-trained weights and save the first 3 episodes as a GIF-movie, use
 ```
 python train_XXX.py --savegif
 ```
-For a detailed description and evaluation of each model see the corresponding [blog post](http://deeprljungle.wordpress.com). 
+For a detailed description and evaluation of each model see the corresponding [blog post](https://deeprljungle.wordpress.com/2018/03/28/tackling-the-hyperparameter-jungle-of-deep-reinforcement-learning/). 
 To display the learning curve of model XXX use
 ```
 python analyze_learning_curve.py -d XXX/
